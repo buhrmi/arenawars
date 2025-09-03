@@ -60,7 +60,7 @@ group :production do
   gem "pg", "~> 1.2"
 end
 
-gem "inertia_rails", "~> 3.7"
+gem "inertia_rails", "~> 3.11"
 gem "vite_rails", "~> 3.0"
 
 gem "stackprof"
