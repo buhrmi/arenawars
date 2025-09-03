@@ -57,7 +57,7 @@ group :test do
 end
 
 group :production do
-  gem "pg", "~> 1.2"
+  gem "pg", "~> 1.6"
 end
 
 gem "inertia_rails", "~> 3.7"
