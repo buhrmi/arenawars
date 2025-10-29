@@ -73,4 +73,4 @@ gem "omniauth-discord"
 
 gem "discordrb", "~> 3.5"
 
-gem "solid_queue", "~> 1.1"
+gem "solid_queue", "~> 1.2"
